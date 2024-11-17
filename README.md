@@ -57,10 +57,10 @@ Visit the official [OPTICA typeface](https://bluetypo.com/site/en/2017/04/23/opt
 The `screenshots` folder contains examples showcasing the scripts in action, including before-and-after comparisons of glyph manipulations.
 
 **Example:**
-1. **Before Removing Curve Handles**  
+1. **Before align nodes**  
    ![Before Screenshot](screenshots/before_remove_handles.png)
 
-2. **After Removing Curve Handles**  
+2. **After align nodes**  
    ![After Screenshot](screenshots/after_remove_handles.png)
 
 ---
