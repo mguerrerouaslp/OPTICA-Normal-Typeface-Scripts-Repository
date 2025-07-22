@@ -75,3 +75,27 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Contributions are welcome! If you have improvements, new ideas, or encounter issues, feel free to open a pull request or issue.
 
+## 📚 How to Cite
+
+If you use this code or its results, please cite:
+
+**APA 7**
+
+Guerrero-Salinas, M. (2025). *OPTICA Normal Typeface Scripts Repository* (v1.0.0) [Software]. GitHub. https://github.com/mguerrerouaslp/OPTICA-Normal-Typeface-Scripts-Repository. https://doi.org/<10.5281/zenodo.xxxxxx>
+
+---
+
+**BibTeX**
+```bibtex
+@software{guerrero-salinas_2025_optica_normal,
+  author    = {Guerrero-Salinas, Manuel},
+  title     = {OPTICA Normal Typeface Scripts Repository},
+  year      = {2025},
+  version   = {1.0.0},
+  url       = {https://github.com/mguerrerouaslp/OPTICA-Normal-Typeface-Scripts-Repository},
+  doi       = {10.5281/zenodo.xxxxxx},
+  publisher = {GitHub},
+  note      = {Software}
+}
+
+
