@@ -1,10 +1,13 @@
-cff-version: 1.0.0
-message: "If you use this software, please cite it as below."
+cff-version: 1.2.0
+title: "OPTICA Normal Typeface Scripts Repository"
+
 authors:
   - family-names: Guerrero-Salinas
     given-names: Manuel
     affiliation: Universidad Autónoma de San Luis Potosí
     orcid: https://orcid.org/0000-0001-8647-4538
-title: OPTICA Normal Typeface Scripts Repository
-version: v1.0.0
+
+license: MIT
+repository-code: https://github.com/mguerrerouaslp/OPTICA-Normal-Typeface-Scripts-Repository
 date-released: 2025-07-22
+version: "1.0.0"
