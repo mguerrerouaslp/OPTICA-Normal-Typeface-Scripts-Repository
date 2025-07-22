@@ -1,0 +1,36 @@
+{
+  "title": "OPTICA Normal Typeface Scripts Repository",
+  "upload_type": "software",
+  "description": "Conjunto de scripts para automatizar procesos de producción tipográfica (GlyphsApp, OpenType, FontTools) desarrollados en el proyecto OPTICA Normal.",
+  "creators": [
+    {
+      "name": "Guerrero-Salinas, Manuel",
+      "orcid": "0000-0001-8647-4538",
+      "affiliation": "Universidad Autónoma de San Luis Potosí"
+    }
+  ],
+  "keywords": [
+    "typography",
+    "type design",
+    "GlyphsApp",
+    "OpenType",
+    "font engineering",
+    "scripts",
+    "automation"
+  ],
+  "license": "<mit|cc-by-4.0|apache-2.0>",
+  "language": "es",
+  "version": "1.0.0",
+  "publication_date": "2025-07-22",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/mguerrerouaslp/OPTICA-Normal-Typeface-Scripts-Repository",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "access_right": "open",
+  "communities": [
+    { "identifier": "typography" }
+  ]
+}
